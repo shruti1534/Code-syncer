@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-syncer/static/css/main.5b1ffe7d.css",
+    "main.js": "/code-syncer/static/js/main.c4486346.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/code-syncer/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/code-syncer/index.html",
+    "main.5b1ffe7d.css.map": "/code-syncer/static/css/main.5b1ffe7d.css.map",
+    "main.c4486346.js.map": "/code-syncer/static/js/main.c4486346.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/code-syncer/static/js/787.4a5f9ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1ffe7d.css",
+    "static/js/main.c4486346.js"
+  ]
+}
